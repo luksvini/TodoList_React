@@ -25,18 +25,3 @@ Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. El
 - `Todo.jsx`: Componente de apresentação de cada tarefa individual.
 - `main.jsx`: Arquivo de entrada onde o aplicativo é renderizado.
 
-## Como Rodar o Projeto
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seuusuario/todolist-app.git
-   ```
-2. **Instale as dependências:**:
-   npm install
-
-3. **Rodando o Projeto:**:
-   npm start
-
-```
-
-```
