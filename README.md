@@ -24,6 +24,7 @@ Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. El
 - `AppLogic.jsx`: Hook que gerencia toda a lógica do aplicativo, incluindo a manipulação de tarefas.
 - `Todo.jsx`: Componente de apresentação de cada tarefa individual.
 - `main.jsx`: Arquivo de entrada onde o aplicativo é renderizado.
+- 
 
 ## Captura de Tela
 
