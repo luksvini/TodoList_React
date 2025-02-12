@@ -29,12 +29,28 @@ Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. El
 
 Aqui está uma captura de tela da interface do usuário do Todo List:
 
-![Captura de Tela](https://github.com/user-attachments/assets/2598b73f-c606-4c7f-8336-09c4bb22cfe6)
+![Image](https://github.com/user-attachments/assets/2598b73f-c606-4c7f-8336-09c4bb22cfe6)
 
 ## Funcionalidade de Principal
 
 O usuário pode adicionar quantas tarefas quiser. Aqui um exemplo :
 
-![Tarefas](https://github.com/user-attachments/assets/91912758-d8b4-4ab8-a9d0-03ca95b968f0)
+![Image](https://github.com/user-attachments/assets/91912758-d8b4-4ab8-a9d0-03ca95b968f0)
 
+
+## Funcionalidade de Filtros
+
+O usuário pode filtrar tarefas para visualizar apenas tarefas concluídas ou incompletas. Aqui está o resultado da filtragem por tarefas concluídas:
+![Image](https://github.com/user-attachments/assets/0428b601-78a2-4ea0-9e67-fd036de7c9e8)
+
+
+## Funcionalidade de Filtros Por Ordem Alfabética
+
+O usuário pode filtrar tarefas para visualizar de forma crescente ou decrescente. Aqui está o resultado da filtragem por ordenação de forma decrescente:
+![Image](https://github.com/user-attachments/assets/d3924415-0bb0-4e94-a16a-b35837502e30)
+
+## Funcionalidade de Pesquisa
+
+O usuário pode pesquisar por tarefas já adicionadas. Aqui está o resultado de pesquisa:
+![Image](https://github.com/user-attachments/assets/db95a7d0-af56-4b19-9ef6-4e40f4a4d3c2)
 
