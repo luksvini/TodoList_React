@@ -1,0 +1,115 @@
+/* Reset */
+body{
+  font-family: Arial, Helvetica, sans-serif; /* Define a fonte do corpo */
+  background-color: #f4f4f4; /* Define a cor de fundo */
+  padding: 30px; /* Aplica um espaçamento interno de 30px */
+  color: #333; /* Define a cor do texto */
+
+  background-image: linear-gradient(to right top,
+  #d16ba5, #c777b9, #ba83ca, #aa8fd8,
+  #9a9ae1, #8aa7ec, #79b3f4, #69bff8,
+  #52cffe, #41dfff, #46eefa, #5ffbf1); /* Aplica um gradiente como fundo */
+  background-attachment: fixed;  /* Fixar o fundo para que ele não se mova */
+}
+
+/* Container principal que envolve a aplicação */
+.app{
+  max-width: 600px; /* Limita a largura máxima do container */
+  margin: 0 auto 300px; /* Centraliza o container na tela */
+  background-color: #efefef; /* Define a cor de fundo */
+  padding: 20px 30px; /* Aplica um espaçamento interno */
+  border-radius: 10px; /* Arredonda os cantos */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Aplica uma sombra ao redor do container */
+}
+
+h1{
+  text-align: center; /* Centraliza o título */
+}
+
+h2{
+  margin-bottom: 10px; /* Aplica uma margem inferior no título */
+}
+
+p{
+  margin: 10px 0; /* Aplica uma margem superior e inferior ao parágrafo */
+}
+
+input{
+  box-sizing: border-box; /* Inclui o padding e a borda no tamanho total do elemento */
+}
+
+/* Estilos para os botões */
+button{
+  background-color: #333974; /* Cor de fundo para os botões */
+  color: #fff;  /* Cor do texto do botão */
+  padding: 5px 10px; /* Padding interno */
+  margin-right: 10px; /* Margem à direita */
+  border: none; /* Remove a borda */
+  border-radius: 3px; /* Arredonda os cantos */
+  cursor: pointer; /* Altera o cursor para indicar que o botão é clicável */
+  opacity: 0.8;  /* Define a opacidade do botão */
+  transition: 0.3s; /* Transição suave quando a opacidade mudar */
+}
+
+button:hover{
+  opacity: 1; /* Aumenta a opacidade quando o mouse passar encima do botão */
+}
+
+.complete{
+  background-color: #5cb85c; /* Cor verde para o botão de "Completar" */
+}
+
+.remove{
+  background-color: #d9534f; /* Cor vermelha para o botão de "Remover" */
+}
+
+/* Estilos para a lista de tarefas */
+.todo-list{
+  margin-bottom: 20px; /* Aplica uma margem inferior */
+  padding-bottom: 20px; /* Aplica um padding inferior */
+  border-bottom: 1px solid #555; /* Adiciona uma borda inferior */
+}
+
+/* Estilos para o item de cada tarefa */
+.todo{
+  background-color: #FFF; /* Cor de fundo branco para cada tarefa */
+  box-shadow: 0 0px 10px rgba(0,0,0,0.1); /* Aplica uma sombra sutil */
+  padding: 10px; /* Padding interno */
+  margin-bottom: 10px; /* Margem inferior */
+  border-radius: 5px; /* Arredonda os cantos */
+  display: flex; /* Utiliza o modelo de layout flex */
+  justify-content: space-between; /* Espaça os itens dentro do contêiner */
+  align-items: center; /* Alinha os itens no centro */
+}
+
+/* Formulario */
+.todo-form{
+  padding-bottom: 1.5rem; /* Aplica um padding inferior */
+}
+
+input, select{
+  padding: 5px; /* Padding interno */
+  margin-bottom: 10px; /* Margem inferior */
+  border: 1px solid #DDD; /* Borda de 1px com cor cinza clara */
+  border-radius: 3px; /* Arredonda os cantos */
+  width: 100%; /* Define a largura para 100% do seu contêiner pai */
+}
+
+/* Filter */
+.filter, 
+.search{
+  border-bottom: 1px solid #555; /* Adiciona uma borda inferior escura */
+  margin-bottom: 20px; /* Aplica uma margem inferior */
+  padding-bottom: 20px; /* Aplica um padding inferior */
+}
+
+.filter-options{
+  display: flex; /* Utiliza o modelo de layout flex */
+  justify-content: space-between; /* Espaça os itens dentro do contêiner */
+  gap: 3rem; /* Define o espaçamento entre os itens como 3rem */
+  width: 100%; /* Define a largura para 100% do seu contêiner pai */
+}
+
+.filter-options div{
+  flex: 1 1 0; /* Faz com que os divs dentro de .filter-options se expandam igualmente */
+}
