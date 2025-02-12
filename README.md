@@ -19,12 +19,16 @@ Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. El
 
 ## Estrutura do Projeto
 
-- `App.jsx`: Componente principal que contém a lógica de aplicação.
-- `AppLayout.jsx`: Componente responsável pela renderização da interface do usuário.
-- `AppLogic.jsx`: Hook que gerencia toda a lógica do aplicativo, incluindo a manipulação de tarefas.
-- `Todo.jsx`: Componente de apresentação de cada tarefa individual.
-- `main.jsx`: Arquivo de entrada onde o aplicativo é renderizado.
-- 
+src/
+│
+├── AppLayout.jsx           # Componente responsável pelo layout geral da aplicação, onde os outros componentes são organizados.
+├── AppLogic.jsx            # Contém a lógica principal do aplicativo, incluindo estados e funções para manipulação das tarefas.
+├── Filter.jsx              # Componente para filtragem de tarefas (ex.: todas, completas, incompletas).
+├── Search.jsx              # Componente para busca de tarefas.
+├── Todo.jsx                # Componente que representa uma tarefa individual.
+├── TodoForm.jsx            # Componente responsável pelo formulário para adicionar novas tarefas.
+├── todoFunctions.jsx       # Funções auxiliares para manipulação das tarefas, como adicionar, completar ou remover.
+
 
 ## Captura de Tela
 
