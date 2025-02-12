@@ -36,7 +36,7 @@ Aqui está uma captura de tela da interface inicial do Todo List:
 
 ![Image](https://github.com/user-attachments/assets/2598b73f-c606-4c7f-8336-09c4bb22cfe6)
 
-## Funcionalidade de Principal
+## Funcionalidade Principal
 
 O usuário pode adicionar quantas tarefas quiser. Aqui um exemplo :
 
