@@ -25,3 +25,16 @@ Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. El
 - `Todo.jsx`: Componente de apresentação de cada tarefa individual.
 - `main.jsx`: Arquivo de entrada onde o aplicativo é renderizado.
 
+## Captura de Tela
+
+Aqui está uma captura de tela da interface do usuário do Todo List:
+
+![Captura de Tela](https://github.com/user-attachments/assets/2598b73f-c606-4c7f-8336-09c4bb22cfe6)
+
+## Funcionalidade de Principal
+
+O usuário pode adicionar quantas tarefas quiser. Aqui um exemplo :
+
+![Tarefas](https://github.com/user-attachments/assets/91912758-d8b4-4ab8-a9d0-03ca95b968f0)
+
+
