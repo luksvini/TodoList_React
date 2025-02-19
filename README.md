@@ -35,14 +35,14 @@ CSS ➝ Estilização responsiva da aplicação.
 ➕ Adicionando Tarefas
 
 O usuário pode adicionar quantas tarefas quiser:
-![Image](https://github.com/user-attachments/assets/91912758-d8b4-4ab8-a9d0-03ca95b968f0)
+<img src="https://github.com/user-attachments/assets/91912758-d8b4-4ab8-a9d0-03ca95b968f0" width = "700"/>
 
 
 🔍 Filtros e Pesquisa
 
 
 ✅ Filtrando por tarefas concluídas
-![Image](https://github.com/user-attachments/assets/0428b601-78a2-4ea0-9e67-fd036de7c9e8)
+<img src="https://github.com/user-attachments/assets/0428b601-78a2-4ea0-9e67-fd036de7c9e8 width = "700"/>
 
 
 🔠 Ordenação alfabética decrescente
