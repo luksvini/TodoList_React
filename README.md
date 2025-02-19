@@ -30,7 +30,7 @@ CSS ➝ Estilização responsiva da aplicação.
 
 🏠 Interface Inicial
 
-![Image](https://github.com/user-attachments/assets/2598b73f-c606-4c7f-8336-09c4bb22cfe6)
+<img src="https://github.com/user-attachments/assets/2598b73f-c606-4c7f-8336-09c4bb22cfe6" width = "300"/>
 
 ➕ Adicionando Tarefas
 
