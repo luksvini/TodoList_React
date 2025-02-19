@@ -2,22 +2,22 @@
 
 Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. Ele permite adicionar, remover, marcar tarefas como concluídas e filtrar tarefas de acordo com critérios definidos.
 
-🚀 Funcionalidades
+##  Funcionalidades 🚀
 
-Adicionar Tarefas ➝ Adicione novas tarefas com uma descrição e categoria.
+- Adicionar Tarefas ➝ Adicione novas tarefas com uma descrição e categoria.
 
-Marcar como Concluída ➝ Marque e desmarque tarefas como concluídas.
+- Marcar como Concluída ➝ Marque e desmarque tarefas como concluídas.
 
-Remover Tarefas ➝ Remova tarefas da lista com um clique.
+- Remover Tarefas ➝ Remova tarefas da lista com um clique.
 
-Busca ➝ Pesquise tarefas específicas usando a barra de busca.
+- Busca ➝ Pesquise tarefas específicas usando a barra de busca.
 
-Filtros ➝ Filtre por categoria ou status (concluídas/incompletas).
+- Filtros ➝ Filtre por categoria ou status (concluídas/incompletas).
 
-Ordenação ➝ Ordene tarefas em ordem alfabética crescente ou decrescente.
+- Ordenação ➝ Ordene tarefas em ordem alfabética crescente ou decrescente.
 
 
-🛠️ Tecnologias Utilizadas
+ ## Tecnologias Utilizadas 🛠️
 
 React ➝ Construção da interface interativa.
 
@@ -26,7 +26,7 @@ React Hooks ➝ Gerenciamento de estado com useState e useEffect.
 CSS ➝ Estilização responsiva da aplicação.
 
 
-📸 Capturas de Tela
+##  Capturas de Tela 📸
 
 🏠 Interface Inicial
 
