@@ -1,4 +1,4 @@
-Todo List App ✅
+# Todo List App ✅
 
 Este é um aplicativo de lista de tarefas (Todo List) desenvolvido com React. Ele permite adicionar, remover, marcar tarefas como concluídas e filtrar tarefas de acordo com critérios definidos.
 
