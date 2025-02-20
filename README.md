@@ -42,12 +42,12 @@ O usuário pode adicionar quantas tarefas quiser:
 
 
 ✅ Filtrando por tarefas concluídas
-<img src="https://github.com/user-attachments/assets/0428b601-78a2-4ea0-9e67-fd036de7c9e8 width = "700"/>
+<img src="https://github.com/user-attachments/assets/0428b601-78a2-4ea0-9e67-fd036de7c9e8" width = "700"/>
 
 
 🔠 Ordenação alfabética decrescente
-![Image](https://github.com/user-attachments/assets/d3924415-0bb0-4e94-a16a-b35837502e30)
+<img src="https://github.com/user-attachments/assets/d3924415-0bb0-4e94-a16a-b35837502e30" width = "700"/>
 
 🔎 Pesquisa de tarefas
-![Image](https://github.com/user-attachments/assets/db95a7d0-af56-4b19-9ef6-4e40f4a4d3c2)
+<img src="https://github.com/user-attachments/assets/db95a7d0-af56-4b19-9ef6-4e40f4a4d3c2" width = "700"/>
 
